@@ -75,4 +75,4 @@ Currently, I'm Learning full-stack web development and I have completed my B.Tec
 <a href="mailto:rakshitag13@gmail.com?subject=Regarding Contact" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="30" width="40" /></a>
 </p>
 
- <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+ <!-- <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p> -->
