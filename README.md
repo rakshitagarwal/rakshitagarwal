@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @rakshitagarwal
-- 👀 I’m interested in AWS cloud computing
-- 🌱 I’m currently learning AWS & JS
-- 💞️ I’m looking to collaborate on AWS...
-- 📫 Reach me via rakshitag13@gmail.com...
+Typing SVG
+Hi there! I'm Rakshit, I'm an aspiring MERN Full Stack Web Developer 
 
-<!---
-rakshitagarwal/rakshitagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like to design all kind of things. I specialize in front end and backend development. I have a passion for making beautiful interfaces with excellent usability. 🧑‍💻
+currently i'm Computer Science and Engineering Graduate B.Tech 2019.
+
+
+
+🔧 Technologies & Tools
+      
+     AWS Cloud Computing
+     React Js
+     Node Js
+     Express Js
+
