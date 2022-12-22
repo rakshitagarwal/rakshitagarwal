@@ -29,15 +29,15 @@ interfaces with excellent usability. 🧑‍💻
 
 ## &#x1f4c8; GitHub Stats
 
-<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminSheladiya&theme=radical'>
+<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&theme=radical'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminSheladiya&theme=radical"  height="190px" />
 </a>
   
-  <a href= 'https://github-readme-stats.vercel.app/api?username=JaiminSheladiya&count_private=true&theme=radical&show_icons=true'>
+  <a href= 'https://github-readme-stats.vercel.app/api?username=rakshitagarwal&count_private=true&theme=radical&show_icons=true'>
   <img align="center" cursor='none' src="https://github-readme-stats.vercel.app/api?username=JaiminSheladiya&count_private=true&theme=radical&show_icons=true"  height="190px" />
   </a>
 
-  <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=JaiminSheladiya&theme=radical&hide_border=false' >
+  <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false' >
   <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=JaiminSheladiya&theme=radical&hide_border=false"  height="190px" />
   </a>
 <!--   <br />
@@ -47,19 +47,19 @@ interfaces with excellent usability. 🧑‍💻
 ## 🚧 Projects 🚧
 
 
-<a href="https://github.com/Randhir200/expert-hand-9078">
+<a href="https://github.com/rakshitagarwal/book-store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randhir200&repo=expert-hand-9078&theme=radical"   />
 </a>    
 
-<a href="https://github.com/Sumit-Gangwar/Farfetch-Project">
+<a href="https://github.com/rakshitagarwal/UniverCell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Gangwar&repo=Farfetch-Project&theme=radical"  />
 </a>    
 
-<a href="https://github.com/JaiminSheladiya/Uboric-website-clone">
+<a href="https://github.com/rakshitagarwal/aws-serverless-project/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=Uboric-website-clone&theme=radical" />
 </a>    
 
-<a href="https://github.com/JaiminSheladiya/BanggoodClone">
+<a href="https://github.com/rakshitagarwal/expense-tracker-REST">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=BanggoodClone&theme=radical"  />
 </a>    
   
