@@ -1,12 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+web+Developer;More+than+1500+Hours+Hard+Work;More+than+200+sleepless+nights)](https://git.io/typing-svg)
 
-<h3> Hi there! I'm Rakshit, I'm an aspiring MERN Full Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
-I like to design all kind of things. I specialize in front end
-and backend development. 
-I have a passion for making beautiful
-interfaces with excellent usability. 🧑‍💻
+<h3> Hi there! I'm Rakshit, and I'm an aspiring MERN Full Stack Web Developer. I like to design all kinds of things. I specialize in front-end and back-end development. I have a passion for making beautiful interfaces with excellent usability. 🧑‍💻
 
-  currently i'm Learning full-stack web developement and I have completed my B.Tech in Computer Science and Engineering in 2019.
+Currently, I'm Learning full-stack web development and I have completed my B.Tech degree in Computer Science and Engineering in 2019.
 </h3>
            
 
