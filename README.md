@@ -30,15 +30,15 @@ interfaces with excellent usability. 🧑‍💻
 ## &#x1f4c8; GitHub Stats
 
 <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&theme=radical'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminSheladiya&theme=radical"  height="190px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&theme=radical"  height="190px" />
 </a>
   
   <a href= 'https://github-readme-stats.vercel.app/api?username=rakshitagarwal&count_private=true&theme=radical&show_icons=true'>
-  <img align="center" cursor='none' src="https://github-readme-stats.vercel.app/api?username=JaiminSheladiya&count_private=true&theme=radical&show_icons=true"  height="190px" />
+  <img align="center" cursor='none' src="https://github-readme-stats.vercel.app/api?username=rakshitagarwal&count_private=true&theme=radical&show_icons=true"  height="190px" />
   </a>
 
   <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false' >
-  <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=JaiminSheladiya&theme=radical&hide_border=false"  height="190px" />
+  <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false"  height="190px" />
   </a>
 <!--   <br />
   <a href="http://www.github.com/JaiminSheladiya"><img src="https://activity-graph.herokuapp.com/graph?username=JaiminSheladiya&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
@@ -48,19 +48,19 @@ interfaces with excellent usability. 🧑‍💻
 
 
 <a href="https://github.com/rakshitagarwal/book-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randhir200&repo=expert-hand-9078&theme=radical"   />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=book-store&theme=radical"   />
 </a>    
 
 <a href="https://github.com/rakshitagarwal/UniverCell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Gangwar&repo=Farfetch-Project&theme=radical"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=UniverCell&theme=radical"  />
 </a>    
 
 <a href="https://github.com/rakshitagarwal/aws-serverless-project/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=Uboric-website-clone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=aws-serverless-project&theme=radical" />
 </a>    
 
 <a href="https://github.com/rakshitagarwal/expense-tracker-REST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=BanggoodClone&theme=radical"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=expense-tracker-REST&theme=radical"  />
 </a>    
   
 ## 🐬 Checkout my Resume & Portfolio
