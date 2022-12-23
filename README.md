@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+web+Developer;More+than+1500+Hours+Hard+Work;More+than+200+sleepless+nights)](https://git.io/typing-svg)
 
 <h3> Hi there! I'm Rakshit, and I'm an aspiring MERN Full Stack Web Developer.</h3>
- I like to design all kinds of things. I specialize in front-end and back-end development. I have a passion for making beautiful interfaces with excellent usability. 🧑‍💻
+ I like to design all kinds of things. I specialize in front-end and back-end development. I have a passion for developing projects with excellent usability. 🧑‍💻
 
 Currently, I'm skilled in AWS Cloud Computing and I have completed my B.Tech degree in Computer Science & Engineering in 2019.
 
