@@ -3,7 +3,7 @@
 <h3> Hi there! I'm Rakshit, and I'm an aspiring MERN Full Stack Web Developer.</h3>
  I like to design all kinds of things. I specialize in front-end and back-end development. I have a passion for making beautiful interfaces with excellent usability. 🧑‍💻
 
-Currently, I'm a full-stack web developer and I have completed my B.Tech degree in Computer Science and Engineering in 2019.
+Currently, I'm skilled in AWS Cloud Computing and I have completed my B.Tech degree in Computer Science & Engineering in 2019.
 
            
 
