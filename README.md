@@ -13,14 +13,14 @@ Currently, I'm skilled in AWS Cloud Computing and I have completed my B.Tech deg
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=typescript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=vercel&logoColor=white&color=yellow)
 <br />
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Wix -informational?style=flat&logo=netlify&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Node JS-informational?style=flat&logo=nodejs&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Express JS-informational?style=flat&logo=express&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow)
 
 
