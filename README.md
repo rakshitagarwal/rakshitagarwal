@@ -41,25 +41,7 @@ Currently, I'm skilled in AWS Cloud Computing and I have completed my B.Tech deg
   <a href="http://www.github.com/JaiminSheladiya"><img src="https://activity-graph.herokuapp.com/graph?username=JaiminSheladiya&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
   
-## 🚧 Projects 🚧
 
-
-<a href="https://github.com/rakshitagarwal/book-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=book-store&theme=radical"   />
-</a>    
-
-<a href="https://github.com/rakshitagarwal/UniverCell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=UniverCell&theme=radical"  />
-</a>    
-
-<a href="https://github.com/rakshitagarwal/aws-serverless-project/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=aws-serverless-project&theme=radical" />
-</a>    
-
-<a href="https://github.com/rakshitagarwal/expense-tracker-REST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitagarwal&repo=expense-tracker-REST&theme=radical"  />
-</a>    
-  
 ## 🐬 Checkout my Resume & Portfolio
 
 
