@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on MERN STACK
   
 
-- 🌱 I’m currently learning MVC and Mongo Db  
+- 🌱 I’m currently learning Web 3 and AI.
   
 
 - ❓ Ask me about anything related to MERN stack and AWS Cloud   
