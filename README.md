@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rakshit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [MERN Stack](https://rakshitagarwal.webflow.io/)  
+- 🔭 I’m currently working on MERN STACK
   
 
 - 🌱 I’m currently learning MVC and Mongo Db  
@@ -19,8 +19,8 @@
   
 ## [RESUME 🎯](https://drive.google.com/file/d/191ZEHBmn6ib9tjeJddfPV2FX-G8NUA4k/view?usp=sharing)
 <br/>  
-
-
+## [PORTFOLIO 🚀](https://rakshitagarwal.webflow.io/)
+<br/>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
