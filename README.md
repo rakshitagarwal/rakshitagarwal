@@ -18,7 +18,7 @@
 - ⚡ Qualification: I am B.Tech Computer Science Graduate 2019  
   
 ## [RESUME 🎯](https://drive.google.com/file/d/191ZEHBmn6ib9tjeJddfPV2FX-G8NUA4k/view?usp=sharing)
-<br/>  
+ 
 ## [PORTFOLIO 🚀](https://rakshitagarwal.webflow.io/)
 <br/>
 
@@ -68,9 +68,7 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="mailto:rakshitag13@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+  
 <a href="https://github.com/rakshitagarwal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -80,6 +78,9 @@
 <a href="https://linkedin.com/in/rakshitagarwal" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  <a href="mailto:rakshitag13@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
