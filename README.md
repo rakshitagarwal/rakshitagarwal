@@ -17,7 +17,7 @@
 
 - ⚡ Qualification: I am B.Tech Computer Science Graduate 2019  
   
-
+## [RESUME 🎯](https://drive.google.com/file/d/191ZEHBmn6ib9tjeJddfPV2FX-G8NUA4k/view?usp=sharing)
 <br/>  
 
 
