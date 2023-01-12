@@ -1,60 +1,116 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+web+Developer;More+than+1500+Hours+Hard+Work;More+than+200+sleepless+nights)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<h3> Hi there! I'm Rakshit, and I'm an aspiring MERN Full Stack Web Developer.</h3>
- I like to design all kinds of things. I specialize in front-end and back-end development. I have a passion for developing projects with excellent usability. 🧑‍💻
+### <div align="center">I'm Rakshit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
 
-Currently, I'm skilled in AWS Cloud Computing and I have completed my B.Tech degree in Computer Science & Engineering in 2019.
+- 🔭 I’m currently working on [MERN Stack](https://github.com/rishavanand/github-profilinator)  
+  
 
-           
+- 🌱 I’m currently learning MVC and Mongo Db  
+  
 
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="780" />
+- ❓ Ask me about anything related to MERN stack and AWS Cloud   
+  
 
-## 🔧 Technologies & Tools
+- ⚡ Qualification: I am B.Tech Computer Science Graduate 2019  
+  
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=typescript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=vercel&logoColor=white&color=yellow)
-<br />
-![](https://img.shields.io/badge/Tools-Wix-informational?style=flat&logo=netlify&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow)
+<br/>  
 
 
-## &#x1f4c8; GitHub Stats
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&theme=radical'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&theme=radical"  height="190px" />
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rakshitagarwal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  
-  <a href= 'https://github-readme-stats.vercel.app/api?username=rakshitagarwal&count_private=true&theme=radical&show_icons=true'>
-  <img align="center" cursor='none' src="https://github-readme-stats.vercel.app/api?username=rakshitagarwal&count_private=true&theme=radical&show_icons=true"  height="190px" />
-  </a>
-
-  <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false' >
-  <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false"  height="190px" />
-  </a>
-<!--   <br />
-  <a href="http://www.github.com/JaiminSheladiya"><img src="https://activity-graph.herokuapp.com/graph?username=JaiminSheladiya&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
+<a href="https://twitter.com/RakshitAgarwal3" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rakshitagarwal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
 
-## 🐬 Checkout my Resume & Portfolio
+<br/>  
 
 
-## [RESUME 🎯](https://drive.google.com/file/d/191ZEHBmn6ib9tjeJddfPV2FX-G8NUA4k/view?usp=sharing)
-## [PORTFOLIO 🚀](https://www.linkedin.com/in/rakshitagarwal/)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
 
 
- <h3 align="center">☃️Connect with me ☃️</h3>
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/jaiminsheladiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-mohapatra-880204200" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008489898991" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7008467376.shaan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jaimins106/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaan_tanu_jr" height="30" width="40" /></a> -->
-<a href="mailto:rakshitag13@gmail.com?subject=Regarding Contact" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="30" width="40" /></a>
-</p>
+## Recent Blog Posts  
+  
 
- <!-- <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p> -->
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rakshitagarwal&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
