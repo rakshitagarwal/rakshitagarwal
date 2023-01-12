@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rakshit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Rakshit, and I'm a Software Engineer & Web Developer. 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on MERN STACK
@@ -21,10 +21,10 @@
 <br/>  
 ## [PORTFOLIO 🚀](https://rakshitagarwal.webflow.io/)
 <br/>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -68,6 +68,9 @@
 
 ## Connect with me  
 <div align="center">
+  <a href="mailto:rakshitag13@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/rakshitagarwal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
