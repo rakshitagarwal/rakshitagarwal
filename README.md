@@ -84,13 +84,7 @@
 
 
 ## Github Stats  
-<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&theme=radical'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&theme=radical"  height="190px" />
-</a>
-  
-  <a href= 'https://github-readme-stats.vercel.app/api?username=rakshitagarwal&count_private=true&theme=radical&show_icons=true'>
-  <img align="center" cursor='none' src="https://github-readme-stats.vercel.app/api?username=rakshitagarwal&count_private=true&theme=radical&show_icons=true"  height="190px" />
-  </a>
+
 
   <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false' >
   <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false"  height="190px" />
