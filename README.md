@@ -2,7 +2,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-### <div align="center">I'm Rakshit, and I'm a Software Engineer & Web Developer. 👨‍💻</div>  
+### <div align="center">I'm a Software Engineer and Web Developer. 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on MERN STACK
