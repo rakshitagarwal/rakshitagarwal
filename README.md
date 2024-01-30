@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Web 3 and AI.
   
 
-- ❓ Ask me about anything related to MERN stack and AWS Cloud   
+- ❓ Ask me about anything related to MERN stack and AWS   
   
 
 - ⚡ Qualification: I am B.Tech Computer Science Graduate 2019  
