@@ -18,7 +18,7 @@
   
 ## [RESUME 🎯](https://drive.google.com/file/d/11R670vrx5qUZOOEu8wcrZg15VLot8ICx/view?usp=sharing)
  
-## [PORTFOLIO 🚀](https://rakshitagarwal.github.io/)
+## [PORTFOLIO 🚀](https://rakshit-agarwal.vercel.app/)
 <br/>
 
 
