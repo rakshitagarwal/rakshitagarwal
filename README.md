@@ -16,7 +16,7 @@
 
 - ⚡ Qualification: I am B.Tech Computer Science Graduate 2019  
   
-## [RESUME 🎯](https://drive.google.com/file/d/11R670vrx5qUZOOEu8wcrZg15VLot8ICx/view?usp=sharing)
+## [RESUME 🎯](https://drive.google.com/file/d/13ML_bJxgtwJMzQGrAuT3DNK3ykqLtc6t/view?usp=sharing)
  
 ## [PORTFOLIO 🚀](https://rakshit-agarwal.vercel.app/)
 <br/>
