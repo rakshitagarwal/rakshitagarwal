@@ -30,9 +30,9 @@
 
 ### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 𝖬𝗂𝖽𝗇𝖺𝗉𝗈𝗋𝖾, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
 
-- 🏢 Currently working in [eXp Realty](https://exprealty.com/) as a *Software Engineer*. Previously worked at [Cresen Solutions](https://cresensolutions.com/) and [Cognizant](https://www.cognizant.com/).
-- 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
-- 🏫 Went to [Midnapore Collegiate School](http://midnaporecollegiateschool.org.in).
+- 🏢 Currently working in [Arsenaltech](https://arsenaltech.com/) as a *Software Engineer*. Previously worked at [Globalvox](https://globalvoxinc.com/) and [Capgemini](https://www.capgemini.com/).
+- 🎓 Completed my Bachelors (B.Tech) in *CSE* from [ABES Engineering College](https://abes.ac.in/).
+- 🏫 Went to [K.C.M. School](https://www.kcmmbd.com/).
 
 > 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎, 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚠𝚑𝚒𝚕𝚎 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘! 😇
 
@@ -302,7 +302,6 @@
 - [x] 🛋️ Have a knack for *Interior Designing*.
 - [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
 - [x] ♻️ Love to recycle stuff, specially electronics.
-- [x] 😏 And of course smug smiling with my girlfriend [♡ 𝗦𝗵𝘂𝗸𝘁𝗶𝗸𝗮 ♡](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
 
 <br>
 <hr>
@@ -316,16 +315,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mailbox.ritamchakraborty@gmail.com">
+  <a href="mailto:rakshit.agarwal@outlook.com">
     <img src="./assets/talk/gmail.png" alt="Gmail" height="70" hspace="15">
   </a>
-  <a href="https://www.linkedin.com/in/ritamchakraborty/">
+  <a href="https://www.linkedin.com/in/rakshitagarwal/">
     <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="15">
   </a>
-  <a href="https://discord.com/users/ritamchakraborty">
+  <a href="https://discord.com/users/rakshit__agarwal">
     <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="15">
   </a>
-  <a href="https://t.me/RITAM_CHAKRAB0RTY">
+  <a href="https://t.me/Rakshit_Agarwal">
     <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="15">
   </a>
   <a href="https://www.reddit.com/user/ritam_chakraborty/">
@@ -352,7 +351,7 @@
 <br>
 
 <p align="center">
-  <a href="https://ritamchakraborty.github.io/">
+  <a href="https://rakshit-2q5.pages.dev/">
       <img src="https://img.shields.io/badge/Portfolio-176BEF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=17HBEF" alt="Portfolio" hspace="5" vspace="5">
   </a>
   <a href="https://leetcode.com/RitamChakraborty/">
@@ -406,7 +405,7 @@
   <a href="./CREDITS.md" target="_blank">
     <img src="./assets/buttons/credits-btn.svg" alt="Credits">
   </a>
-  <a href="https://github.com/RitamChakraborty/RitamChakraborty.github.io/blob/master/public/documents/Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/13ML_bJxgtwJMzQGrAuT3DNK3ykqLtc6t/view" target="_blank">
     <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
   </a>
 </p>
@@ -418,7 +417,7 @@
   <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
 <h2 id="repositories" align="center">
-  <a href="https://github.com/RitamChakraborty/RitamChakraborty">
+  <a href="https://github.com/rakshitagarwal/rakshitagarwal">
   🌟 &nbsp; ⓣ*ⓞ&nbsp;&nbsp;ⓢ*ⓗ*ⓞ*ⓦ &nbsp; 💖
   </a>
 </h2>
