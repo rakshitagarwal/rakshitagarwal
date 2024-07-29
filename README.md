@@ -2,9 +2,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/ola-amigos-light.gif#gh-light-mode-only" width="400" alt="ola-amigos" />
     <img src="./assets/cats/hello-light.gif#gh-light-mode-only" alt="hello" height="220" width="210" />
-    <img src="./assets/headers/ola-amigos-dark.gif#gh-dark-mode-only" width="400" alt="ola-amigos" />
     <img src="./assets/cats/hello-dark.gif#gh-dark-mode-only" alt="hello" height="220" width="210" />
     <br>
     <br>
@@ -54,20 +52,6 @@
 <br>
 
 <p align="center">
-  <!-- Java -->
-  <a href="https://www.java.com#gh-light-mode-only">
-    <img src="./assets/languages/java-light.svg#gh-light-mode-only" alt="Java" alt="Java" height="60" hspace="10" />
-  </a>
-  <a href="https://www.java.com#gh-dark-mode-only">
-    <img src="./assets/languages/java-dark.svg#gh-dark-mode-only" alt="Java" height="60" hspace="10" />
-  </a>
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org#gh-light-mode-only">
-    <img src="./assets/languages/kotlin-light.svg#gh-light-mode-only" alt="Kotlin" alt="Java" height="60" hspace="10" />
-  </a>
-  <a href="https://kotlinlang.org/#gh-dark-mode-only">
-    <img src="./assets/languages/kotlin-dark.svg#gh-dark-mode-only" alt="Kotlin" height="60" hspace="10" />
-  </a>
   <!-- JavaScript -->
   <a href="https://www.javascript.com">
     <img src="./assets/languages/javascript.svg" alt="JavaScript" height="60" hspace="10" >
@@ -105,13 +89,6 @@
   </a>
   <a href="https://spring.io#gh-dark-mode-only">
     <img src="./assets/frameworks/spring-dark.svg#gh-dark-mode-only" alt="Spring" height="60" hspace="10" >
-  </a>
-  <!-- Angular -->
-  <a href="https://angular.io#gh-light-mode-only">
-    <img src="./assets/frameworks/angular-light.svg#gh-light-mode-only" alt="Angular" height="60" hspace="10" >
-  </a>
-  <a href="https://angular.io#gh-dark-mode-only">
-    <img src="./assets/frameworks/angular-dark.svg#gh-dark-mode-only" alt="Angular" height="60" hspace="10" >
   </a>
   <!-- React -->
   <a href="https://react.dev#gh-light-mode-only">
@@ -188,20 +165,6 @@
 <br>
 
 <p align="center">
-  <!-- IntellJ IDEA -->
-  <a href="https://www.jetbrains.com/idea#gh-light-mode-only">
-    <img src="./assets/tools/idea-light.svg#gh-light-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
-  </a>
-  <a href="https://www.jetbrains.com/idea#gh-dark-mode-only">
-    <img src="./assets/tools/idea-dark.svg#gh-dark-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
-  </a>
-  <!-- Webstorm -->
-  <a href="https://www.jetbrains.com/webstorm#gh-light-mode-only">
-    <img src="./assets/tools/webstorm-light.svg#gh-light-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
-  </a>
-  <a href="https://www.jetbrains.com/webstorm#gh-dark-mode-only">
-    <img src="./assets/tools/webstorm-dark.svg#gh-dark-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
-  </a>
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com#gh-light-mode-only">
     <img src="./assets/tools/vscode-light.svg#gh-light-mode-only" alt="Visual Studio Code" height="60" hspace="10" >
@@ -237,8 +200,8 @@
     <img src="./assets/tools/rog.png" alt="Rog" height="45" hspace="5">
   </a>
   <span>
-    I daily drive <i>ASUS ROG Zephyrus G15 (2022)</i> Moonlight White edition, 
-    with a AMD Ryzen 9 6900HS, Nvidia RTX 3070ti, 1440p 240hz display. Although,
+    I daily drive <i>Dell Inspiron (2024)</i> Moonlight White edition, 
+    with a intel Ryzen 9 6900HS, Nvidia RTX 3070ti, 1440p 240hz display. Although,
     it's embarrassing to say I'm not much of a gamer. 😅
   </span>
 </p>
@@ -272,8 +235,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
   </p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
-    <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
+    <img src="https://raw.githubusercontent.com/rakshitagarwal/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
+    <img src="https://raw.githubusercontent.com/rakshitagarwal/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshitagarwal)](https://github.com/rakshitagarwal/github-readme-stats)
   </p>
 </p>
 
