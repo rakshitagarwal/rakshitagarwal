@@ -1,4 +1,3 @@
-
 <p align="center">
     <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" alt="about-me" width="400" />
     <img src="./assets/cats/smart-light.gif#gh-light-mode-only" alt="smart-cat" height="200" width="200" />
@@ -6,10 +5,10 @@
     <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart-cat" height="200" width="200" />
 </p>
 
-### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 𝖬𝗂𝖽𝗇𝖺𝗉𝗈𝗋𝖾, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
+### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 Ahmedabad, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
 
-- 🏢 Currently working in [Arsenaltech](https://arsenaltech.com/) as a *Software Engineer*. Previously worked at [Globalvox](https://globalvoxinc.com/) and [Capgemini](https://www.capgemini.com/).
-- 🎓 Completed my Bachelors (B.Tech) in *CSE* from [ABES Engineering College](https://abes.ac.in/).
+- 🏢 Currently working in [Arsenaltech](https://arsenaltech.com/) as a _Software Engineer_. Previously worked at [Globalvox](https://globalvoxinc.com/) and [Capgemini](https://www.capgemini.com/).
+- 🎓 Completed my Bachelors (B.Tech) in _CSE_ from [ABES Engineering College](https://abes.ac.in/).
 - 🏫 Went to [K.C.M. School](https://www.kcmmbd.com/).
 
 > 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎, 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚠𝚑𝚒𝚕𝚎 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘! 😇
@@ -26,9 +25,10 @@
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" />
 </p>
 
-### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 *𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍* 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 *𝖢𝗅𝗈𝗎𝖽*.
+### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 _𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍_ 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 _𝖢𝗅𝗈𝗎𝖽_.
 
 ### ⌨️ 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸𝑆 𝐼 𝑆𝑃𝐸𝐴𝐾
+
 <br>
 
 <p align="center">
@@ -160,9 +160,10 @@
     <img src="./assets/tools/linux-dark.svg#gh-dark-mode-only" alt="Linux" height="60" hspace="10" >
   </a>
   <!-- Docker -->
-  <a href="https://www.docker.com">
-    <img src="./assets/tools/docker.svg#gh-light-mode-only" alt="Docker" height="60" hspace="10" >
+  <a href="https://nodejs.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
   </a>
+
   <!-- Figma -->
   <a href="hhttps://www.figma.com#gh-light-mode-only">
     <img src="./assets/tools/figma-light.svg#gh-light-mode-only" alt="Figma" height="60" hspace="10" >
@@ -174,8 +175,6 @@
 
 <br>
 <br>
-
-
 
 <br>
 <br>
@@ -230,11 +229,10 @@
     <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="220" width="212" />
 </p>
 
-- [x] ☕ Programming while drinking **B̾o̾u̾r̾n̾v̾i̾t̾a̾** is the ultimate fun for me. 
-- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old *Hero Ranger* and had quality time with it on long road.
-- [x] 📰 Enjoy solving *Sudoku* from newspaper.
-- [x] 🛋️ Have a knack for *Interior Designing*.
-- [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
+- [x] ☕ Programming with a team is the ultimate fun for me.
+- [x] 🚲 Cycling is my favorite sport. It is part of exercise for better health.
+- [x] 📰 Enjoy solving _Sudoku_ or _Crossword_ from newspaper.
+- [x] 🛋️ Have a knack for _Events and Seminars_.
 - [x] ♻️ Love to recycle stuff, specially electronics.
 
 <br>
@@ -261,16 +259,13 @@
   <a href="https://t.me/Rakshit_Agarwal">
     <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="15">
   </a>
-  <a href="https://www.reddit.com/user/ritam_chakraborty/">
-    <img src="./assets/talk/reddit.png" alt="Reddit" height="70" hspace="15">
-  </a>
 </p>
 
 <br>
 
 <details>
   <summary align="center">
-   𝓘'𝓵𝓵 𝓫𝓮 𝔀𝓪𝓲𝓽𝓲𝓷𝓰 𝓯𝓸𝓻 𝓪&nbsp; <b>𝓗𝓲</b>&nbsp;&nbsp;&nbsp;❛ᴗ❛
+   𝓘'𝓵𝓵 𝓫𝓮 𝔀𝓪𝓲𝓽𝓲𝓷𝓰 𝓯𝓸𝓻 𝓪 𝓗𝓲.
   </summary>
   <p align="center">
       <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
@@ -279,46 +274,6 @@
       <img src="./assets/cats/check-phone-dark.gif#gh-dark-mode-only" alt="check-phone" height="240" width="250" />
   </p>
 </details>
-
-<h3 align="center"><b>𝐎𝐓𝐇𝐄𝐑 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒</b></h3>
-
-<br>
-
-<p align="center">
-  <a href="https://rakshit-2q5.pages.dev/">
-      <img src="https://img.shields.io/badge/Portfolio-176BEF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=17HBEF" alt="Portfolio" hspace="5" vspace="5">
-  </a>
-  <a href="https://leetcode.com/RitamChakraborty/">
-      <img src="https://img.shields.io/badge/LeetCode-5e4e26?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="Leet Code" hspace="5" vspace="5">
-  </a>
-  <a href="https://codepen.io/RitamChakraborty">
-      <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
-  </a>
-  <a href="https://cssbattle.dev/player/ritam">
-      <img src="https://img.shields.io/badge/CSSBattle-ffdf00?style=for-the-badge&logo=cssbattle&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
-  </a>
-  <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
-      <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stack-overflow&logoColor=FFFFFF" alt="Stack Overflow" hspace="5" vspace="5">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ritamchakraborty/">
-      <img src="https://img.shields.io/badge/GeeksForGeeks-0e3a1b?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" alt="Geeks For Geeks" hspace="5" vspace="5">
-  </a>
-  <a href="https://www.hackerrank.com/RitamChakraborty">
-      <img src="https://img.shields.io/badge/HackerRank-14ab4a?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" alt="Hacker Rank" hspace="5" vspace="5">
-  </a>
-  <a href="https://www.hackerearth.com/@ritam38">
-      <img src="https://img.shields.io/badge/HackerEarth-2b3353?style=for-the-badge&logo=hackerearth&logoColor=FFFFFF" alt="Hacker Earth" hspace="5" vspace="5">
-  </a>
-  <a href="https://www.codechef.com/users/ritamc">
-      <img src="https://img.shields.io/badge/CodeChef-713d1c?style=for-the-badge&logo=codechef&logoColor=FFFFFF" alt="Code Chef" hspace="5" vspace="5">
-  </a>
-  <a href="https://www.codewars.com/users/RitamChakraborty">
-      <img src="https://img.shields.io/badge/CodeWars-b1361e?style=for-the-badge&logo=codewars&logoColor=FFFFFF" alt="Code Wars" hspace="5" vspace="5">
-  </a>
-  <a href="https://www.codingame.com/profile/c0d0fea09a8478ccb3c1080f3604a10d9705193">
-      <img src="https://img.shields.io/badge/Coding Game-f2bb13?style=for-the-badge&logo=codingame&logoColor=ffffff" alt="Coding Games" hspace="5" vspace="5">
-  </a>
-</p>
 
 <br>
 <hr>
@@ -336,6 +291,9 @@
 <br>
 
 <p align="center">
+ <a href="https://rakshit-2q5.pages.dev/" target="_blank">
+    <img src="./assets/buttons/portfolio.svg" alt="Portfolio">
+  </a>
   <a href="https://drive.google.com/file/d/13ML_bJxgtwJMzQGrAuT3DNK3ykqLtc6t/view" target="_blank">
     <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
   </a>
@@ -347,4 +305,3 @@
 <p align="center">
   <img alt="Hits" src="https://hits.sh/github.com/rakshitagarwal/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
-

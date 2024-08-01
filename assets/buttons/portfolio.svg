@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.36" height="35" viewBox="0 0 86.36 35">
+  <rect class="svg__rect" x="0" y="0" width="86.36" height="35" fill="#005384"/>
+  <rect class="svg__rect" x="86.36" y="0" width="0" height="35" fill="#389AD5"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="12">
+    Portfolio
+  </text>
+</svg>
