@@ -1,23 +1,3 @@
-<br>
-<br>
-
-<p align="center">
-    <img src="./assets/cats/hello-light.gif#gh-light-mode-only" alt="hello" height="220" width="210" />
-    <img src="./assets/cats/hello-dark.gif#gh-dark-mode-only" alt="hello" height="220" width="210" />
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <a href="#repositories" target="_self">
-      <img src="./assets/icons/scroll-down.gif" alt="scroll-down" height="50">
-    </a>
-</p>
-
-<br>
-<hr>
-<br>
 
 <p align="center">
     <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" alt="about-me" width="400" />
@@ -195,16 +175,6 @@
 <br>
 <br>
 
-<p>
-  <a href="https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g15-2022-series/">
-    <img src="./assets/tools/rog.png" alt="Rog" height="45" hspace="5">
-  </a>
-  <span>
-    I daily drive <i>Dell Inspiron (2024)</i> Moonlight White edition, 
-    with a intel Ryzen 9 6900HS, Nvidia RTX 3070ti, 1440p 240hz display. Although,
-    it's embarrassing to say I'm not much of a gamer. 😅
-  </span>
-</p>
 
 
 <br>
@@ -237,7 +207,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/rakshitagarwal/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
     <img src="https://raw.githubusercontent.com/rakshitagarwal/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshitagarwal)](https://github.com/rakshitagarwal/github-readme-stats)
+  
   </p>
 </p>
 
@@ -365,10 +335,7 @@
 <br>
 <br>
 
-<p>
-  <a href="./CREDITS.md" target="_blank">
-    <img src="./assets/buttons/credits-btn.svg" alt="Credits">
-  </a>
+<p align="center">
   <a href="https://drive.google.com/file/d/13ML_bJxgtwJMzQGrAuT3DNK3ykqLtc6t/view" target="_blank">
     <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
   </a>
@@ -378,10 +345,6 @@
 <br>
 
 <p align="center">
-  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
+  <img alt="Hits" src="https://hits.sh/github.com/rakshitagarwal/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
-<h2 id="repositories" align="center">
-  <a href="https://github.com/rakshitagarwal/rakshitagarwal">
-  🌟 &nbsp; ⓣ*ⓞ&nbsp;&nbsp;ⓢ*ⓗ*ⓞ*ⓦ &nbsp; 💖
-  </a>
-</h2>
+
