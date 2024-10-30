@@ -188,36 +188,6 @@
   <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
 </p>
 
-<p align="center">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=15&column=-1&theme=algolia&title=Commits">
-  </p>
-  <p align="center">
-    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=20&column=-1&theme=onedark&title=MultiLanguage,Repositories">
-  </p>
-  <p align="center">
-    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Stars">
-    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&column=-1&theme=juicyfresh&title=Issues,PullRequest">
-    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Followers">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
-  </p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/rakshitagarwal/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
-    <img src="https://raw.githubusercontent.com/rakshitagarwal/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
-  
-  </p>
-</p>
-
-<details>
-  <summary>𝓒𝓸𝓷𝓽𝓻𝓫𝓾𝓽𝓲𝓸𝓷𝓼 𝓸𝓯 𝓽𝓱𝓲𝓼 𝔂𝓮𝓪𝓻</summary>
-  <p align="center">
-    <img src="./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only" alt="Contribution Calendar">
-    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" alt="Contribution Calendar">
-  </p>
-</details>
-
 <br>
 <hr>
 <br>
