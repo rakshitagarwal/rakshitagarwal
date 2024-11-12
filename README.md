@@ -249,7 +249,7 @@
  <a href="https://rakshit-2q5.pages.dev/" target="_blank">
     <img src="./assets/buttons/portfolio.svg" alt="Portfolio">
   </a>
-  <a href="https://drive.google.com/file/d/13ML_bJxgtwJMzQGrAuT3DNK3ykqLtc6t/view" target="_blank">
+  <a href="https://drive.google.com/file/d/10ufitvJOC_35qtPB9rvVEHW0jKZF_aqO/view" target="_blank">
     <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
   </a>
 </p>
