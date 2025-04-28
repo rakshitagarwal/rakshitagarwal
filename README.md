@@ -7,7 +7,7 @@
 
 ### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 Ahmedabad, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
 
-- 🏢 Currently working in [Arsenaltech](https://arsenaltech.com/) as a _Software Engineer_. Previously worked at [Globalvox](https://globalvoxinc.com/) and [Capgemini](https://www.capgemini.com/).
+- 🏢 Currently working in [Yudiz](https://yudiz.com/) as a _Web Developer_. Previously worked at [Arsenaltech](https://arsenaltech.com/) and [Globalvox](https://globalvoxinc.com/).
 - 🎓 Completed my Bachelors (B.Tech) in _CSE_ from [ABES Engineering College](https://abes.ac.in/).
 - 🏫 Went to [K.C.M. School](https://www.kcmmbd.com/).
 
@@ -40,20 +40,6 @@
   <a href="https://www.typescriptlang.org">
     <img src="./assets/languages/typescript.svg" alt="TypeScript" height="60" hspace="10" >
   </a>
-  <!-- Dart -->
-  <a href="https://dart.dev#gh-light-mode-only">
-    <img src="./assets/languages/dart-light.svg#gh-light-mode-only" alt="Dart" height="60" hspace="10" >
-  </a>
-  <a href="https://dart.dev#gh-dark-mode-only">
-    <img src="./assets/languages/dart-dark.svg#gh-dark-mode-only" alt="Dart" height="60" hspace="10" >
-  </a>
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash#gh-light-mode-only">
-    <img src="./assets/languages/bash-light.svg#gh-light-mode-only" alt="Bash" height="60" hspace="10" >
-  </a>
-  <a href="https://www.gnu.org/software/bash#gh-dark-mode-only">
-    <img src="./assets/languages/bash-dark.svg#gh-dark-mode-only" alt="Bash" height="60" hspace="10" >
-  </a>
 </p>
 
 <br>
@@ -63,13 +49,6 @@
 <br>
 
 <p align="center">
-  <!-- Spring Boot -->
-  <a href="https://spring.io#gh-light-mode-only">
-    <img src="./assets/frameworks/spring-light.svg#gh-light-mode-only" alt="Spring" height="60" hspace="10" >
-  </a>
-  <a href="https://spring.io#gh-dark-mode-only">
-    <img src="./assets/frameworks/spring-dark.svg#gh-dark-mode-only" alt="Spring" height="60" hspace="10" >
-  </a>
   <!-- React -->
   <a href="https://react.dev#gh-light-mode-only">
     <img src="./assets/frameworks/react-light.svg#gh-light-mode-only" alt="React" height="60" hspace="10" >
@@ -249,7 +228,7 @@
  <a href="https://rakshit-2q5.pages.dev/" target="_blank">
     <img src="./assets/buttons/portfolio.svg" alt="Portfolio">
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1kNuKdxqJdLQKiRV_y2tlpZrUw4n1zgQD" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1f4BlGXtlGJS-747Cw8IAqc17LavFuRjt" target="_blank">
     <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
   </a>
 </p>
