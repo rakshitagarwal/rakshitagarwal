@@ -3,8 +3,7 @@
 
 <div id="header" align="center">
    <h3>My Goal is to become a</h3>
-<img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" alt="mern" height="100" />
-<h3>Stack developer</h3>
+<h3>MERN Full Stack developer</h3>
 </div>
 
 <p></br> I’m Rakshit Agarwal, from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Ahmedabad, Gujarat.</b> I’m interested in programming, developing websites and apps. I’m currently learning full stack development {MERN} and I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps. 
@@ -29,7 +28,6 @@
 ## 😄 Cool Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=rakshitagarwal&show_icons=true&theme=radical" alt="rakshitagarwal" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnabiradar&theme=radical" alt="rakshitagarwal" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnabiradar&layout=compact&theme=radical&langs_count=6" alt="rakshitagarwal"</p>
 
