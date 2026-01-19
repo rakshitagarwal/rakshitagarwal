@@ -7,7 +7,7 @@
 <h3>Stack developer</h3>
 </div>
 
-<p></br> I’m Krushna Biradar, from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Latur, Maharastra.</b> I’m interested in programming, developing websites and apps. I’m currently learning full stack development {MERN} and I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps. 
+<p></br> I’m Rakshit Agarwal, from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Ahmedabad, Gujarat.</b> I’m interested in programming, developing websites and apps. I’m currently learning full stack development {MERN} and I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps. 
 
 ## ⚡ Things I code with
 
@@ -25,21 +25,19 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<img alt="contribution" src="https://github.com/krushnabiradar/krushnabiradar/blob/output/github-contribution-grid-snake.svg" />
 
 ## 😄 Cool Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=rakshitagarwal&show_icons=true&theme=radical" alt="krushnabiradar" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnabiradar&theme=radical" alt="krushnabiradar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=rakshitagarwal&show_icons=true&theme=radical" alt="rakshitagarwal" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnabiradar&theme=radical" alt="rakshitagarwal" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnabiradar&layout=compact&theme=radical&langs_count=6" alt="krushnabiradar"</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnabiradar&layout=compact&theme=radical&langs_count=6" alt="rakshitagarwal"</p>
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://twitter.com/__krushna_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krushnabiradar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/krushna-biradar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krushnabiradar" height="30" width="40" /></a>
-<a href="https://codepen.io/krushnabiradar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="krushnabiradar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__krushna_b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krushnabiradar" height="30" width="40" /></a>
+<a href="https://rakshit-alpha.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakshitagarwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakshitagarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshitagarwal" height="30" width="40" /></a>
+<a href="https://beacons.ai/rakshitagarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakshitagarwal" height="30" width="40" /></a>
 </p>
 
 - 📫 Reach me via - email: rakshit.agarwal@outlook.com
