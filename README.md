@@ -2,8 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5d08f42ea1e15f00016f7e14/1605714340505-O0VHXGLNBI8HWVZZEYBR/female-developer-vector.jpg">
 
 <div id="header" align="center">
-   <h3>My Goal is to become a</h3>
-<h3>MERN Full Stack developer</h3>
+<h3>I am a Full Stack developer</h3>
 </div>
 
 <p></br> I’m Rakshit Agarwal, from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Ahmedabad, Gujarat.</b> I’m interested in programming, developing websites and apps. I’m currently learning full stack development {MERN} and I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps. 
