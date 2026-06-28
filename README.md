@@ -1,28 +1,64 @@
-<h1 align="center">Hi 👋, I'm Rakshit Agarwal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 👋 Hi, I'm Rakshit Agarwal
 
-- 🔭 I’m currently working on **multinational saas**
+**Full-Stack MERN Engineer · 3+ years of experience · Ahmedabad, India**
 
-- 👯 I’m looking to collaborate on **fullstack projects**
+> Building scalable SaaS across fintech, healthcare, and enterprise — with a focus on performance, real-time systems, and clean architecture.
 
-- 🤝 I’m looking for help with **collaboration on project**
+---
 
-- 👨‍💻 All of my projects are available at [https://rakshit-alpha.vercel.app/](https://rakshit-alpha.vercel.app/)
+## 🚀 About me
 
-- 💬 Ask me about **react, node, javascript**
+- 🔭 Currently engineering multi-tenant **EHS/ESG & Fintech SaaS** at **BrainerHub Solutions**
+- 🛠 Specialise in **React/Next.js**, **Node.js/NestJS**, **microservices**, and **real-time systems**
+- 📦 Projects live at **[rakshit-alpha.vercel.app](https://rakshit-alpha.vercel.app/)**
+- 💬 Ask me about **React, Node.js, TypeScript, system design**
+- 📫 Reach me at **rakshit.agarwal@outlook.com**
+- 🔗 [LinkedIn](https://linkedin.com/in/rakshitagarwal) · [Resume (PDF)](https://drive.google.com/file/d/1GAqcbAjENnZEJ1Pe0oStdRUnPQEwfbq8/view?usp=sharing)
 
-- 📫 How to reach me **rakshit.agarwal@outlook.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GAqcbAjENnZEJ1Pe0oStdRUnPQEwfbq8/view?usp=sharing](https://drive.google.com/file/d/1GAqcbAjENnZEJ1Pe0oStdRUnPQEwfbq8/view?usp=sharing)
+## 🧰 Tech stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakshitagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshitagarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/rakshit__agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakshit__agarwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakshitag13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshitag13" height="30" width="40" /></a>
-</p>
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS |
+| **Backend** | Node.js, NestJS, Express.js, Socket.IO, NATS |
+| **Database** | PostgreSQL, MongoDB, MySQL, Redis, Neo4j |
+| **ORM/ODM** | TypeORM, Prisma, Mongoose |
+| **DevOps & AI** | Docker, CI/CD pipelines, Gemini AI, Stripe, AWS |
+| **Tools** | Git, JIRA, Figma, Postman, Cursor IDE |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitagarwal&show_icons=true&locale=en&layout=compact" alt="rakshitagarwal" /></p>
+## 🏆 Key achievements
+
+- ⚡ **60% faster deployments** — automated CI/CD pipeline for a Next.js fintech platform
+- 👥 **10,000+ users** served on the Bering Health patient portal (React/Next.js)
+- 🎫 **1,000+ ticket transactions** processed on an events & ticketing platform
+- 💬 **sub-200ms bid transactions** across 100+ simultaneous live auction rooms
+- 🔍 **40% fewer state-management bugs** via custom Redux Toolkit integration layer
+- 🚶 **25% lower patient drop-off** with multi-step onboarding + embedded video
+
+---
+
+## 💼 Experience
+
+**BrainerHub Solutions** — Software Engineer _(May 2025 – present)_
+> Enterprise EHS/ESG SaaS (distributed microservices, MongoDB, Neo4j, NATS, Socket.IO) · Fintech SaaS (Next.js full-stack, Stripe, Gemini AI)
+
+**Yudiz Solutions** — Web Developer _(Dec 2024 – Apr 2025)_
+> Event-listing platform & ticketing portal — payment processing, analytics dashboards, automated barcode scanning
+
+**ArsenalTech** — Software Engineer _(Apr 2024 – Nov 2024)_
+> Bering Health patient portal — React/Next.js, Redux Toolkit, embedded video consultations
+
+**GlobalVox** — Software Engineer _(Feb 2023 – Mar 2024)_
+> Real-time online auction backend — Node.js, Redis, Socket.IO, sub-200ms live bidding
+
+---
+
+## 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rakshitagarwal-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rakshitagarwal)
+[![Email](https://img.shields.io/badge/Email-rakshit.agarwal@outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:rakshit.agarwal@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rakshit--alpha.vercel.app-000?style=flat&logo=vercel)](https://rakshit-alpha.vercel.app/)
