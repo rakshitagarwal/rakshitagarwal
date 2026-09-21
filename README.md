@@ -1,4 +1,4 @@
-<!-- Only one placeholder left: replace YOUR-GITHUB (your GitHub username) in the stats + snake image URLs -->
+<!-- Only one placeholder left: replace rakshitagarwal (your GitHub username) in the stats + snake image URLs -->
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=profile+views&color=fb923c&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=rakshitagarwal&label=profile+views&color=fb923c&style=flat" alt="views" />
 
 </div>
 
@@ -98,7 +98,7 @@ Full-Stack Software Engineer with **3+ years** shipping scalable SaaS products a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB/YOUR-GITHUB/output/snake-dark.svg" alt="contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/rakshitagarwal/rakshitagarwal/output/snake-dark.svg" alt="contribution snake" width="100%" />
 
 </div>
 
@@ -108,10 +108,10 @@ Full-Stack Software Engineer with **3+ years** shipping scalable SaaS products a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&hide_border=true&bg_color=140d09&title_color=fb923c&icon_color=fbbf24&text_color=ffedd5&ring_color=fb923c" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&hide_border=true&bg_color=140d09&title_color=fb923c&text_color=ffedd5" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rakshitagarwal&show_icons=true&hide_border=true&bg_color=140d09&title_color=fb923c&icon_color=fbbf24&text_color=ffedd5&ring_color=fb923c" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitagarwal&layout=compact&hide_border=true&bg_color=140d09&title_color=fb923c&text_color=ffedd5" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&hide_border=true&background=140d09&ring=fb923c&fire=fbbf24&currStreakLabel=ffedd5&sideLabels=ffedd5&currStreakNum=ffffff&sideNums=ffffff&dates=9a7b62" />
+<img src="https://streak-stats.demolab.com?user=rakshitagarwal&hide_border=true&background=140d09&ring=fb923c&fire=fbbf24&currStreakLabel=ffedd5&sideLabels=ffedd5&currStreakNum=ffffff&sideNums=ffffff&dates=9a7b62" />
 
 </div>
 
