@@ -1,11 +1,11 @@
-<!-- Replace YOUR-GITHUB and YOUR-LINKEDIN everywhere before pushing -->
+<!-- Only one placeholder left: replace YOUR-GITHUB (your GitHub username) in the stats + snake image URLs -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a1120,50:4f46e5,100:22d3ee&text=Rakshit%20Agarwal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Microservices%20%C2%B7%20AI-Powered%20SaaS&descSize=16&descAlignY=60&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:140d09,50:ea580c,100:fbbf24&text=Rakshit%20Agarwal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Microservices%20%C2%B7%20AI-Powered%20SaaS&descSize=16&descAlignY=60&animation=twinkling" width="100%" alt="header" />
 
-<a href="https://github.com/YOUR-GITHUB">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=40&lines=%24+whoami+%E2%86%92+Rakshit+Agarwal;Turning+ideas+into+scalable+SaaS;6+NestJS+microservices.+50K%2B+events%2Fday.;Gemini+AI+%C3%97+Fintech+%C3%97+Real-time+systems;%24+status+%E2%86%92+building+%2B+scaling+%2B+shipping+%E2%9C%A6" alt="typing" />
+<a href="https://rakshit-five.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FDBA74&center=true&vCenter=true&width=760&height=40&lines=%24+whoami+%E2%86%92+Rakshit+Agarwal;Turning+ideas+into+scalable+SaaS;6+NestJS+microservices.+50K%2B+events%2Fday.;Gemini+AI+%C3%97+Fintech+%C3%97+Real-time+systems;%24+status+%E2%86%92+building+%2B+scaling+%2B+shipping+%E2%9C%A6" alt="typing" />
 </a>
 
 <br/>
@@ -14,14 +14,14 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rakshitagarwal/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://rakshit-five.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ea580c?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:rakshit.agarwal@outlook.com"><img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 <a href="https://leetcode.com/u/rakshitag13"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=profile+views&color=a5b4fc&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=profile+views&color=fb923c&style=flat" alt="views" />
 
 </div>
 
@@ -30,6 +30,8 @@
 ## `> cat about.txt`
 
 Full-Stack Software Engineer with **3+ years** shipping scalable SaaS products across **EHS/ESG, fintech, healthcare, events and real-time auctions**. I like systems that stay fast under load: event-driven microservices, clean APIs, and interfaces people actually enjoy using. Lately I'm wiring **LLMs (Gemini, Claude)** into products so they do the boring work for users.
+
+🌐 Portfolio: **[rakshit-five.vercel.app](https://rakshit-five.vercel.app/)** · 💼 LinkedIn: **[/in/rakshitagarwal](https://www.linkedin.com/in/rakshitagarwal/)**
 
 ---
 
@@ -92,14 +94,24 @@ Full-Stack Software Engineer with **3+ years** shipping scalable SaaS products a
 
 ---
 
+## `> ./snake --eat-contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB/YOUR-GITHUB/output/snake-dark.svg" alt="contribution snake" width="100%" />
+
+</div>
+
+---
+
 ## `> ./stats --live`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&hide_border=true&bg_color=0a1120&title_color=22d3ee&icon_color=a5b4fc&text_color=c7d2fe&ring_color=a5b4fc" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&hide_border=true&bg_color=0a1120&title_color=22d3ee&text_color=c7d2fe" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&hide_border=true&bg_color=140d09&title_color=fb923c&icon_color=fbbf24&text_color=ffedd5&ring_color=fb923c" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&hide_border=true&bg_color=140d09&title_color=fb923c&text_color=ffedd5" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&hide_border=true&background=0a1120&ring=a5b4fc&fire=22d3ee&currStreakLabel=c7d2fe&sideLabels=c7d2fe&currStreakNum=ffffff&sideNums=ffffff&dates=6b7f9e" />
+<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&hide_border=true&background=140d09&ring=fb923c&fire=fbbf24&currStreakLabel=ffedd5&sideLabels=ffedd5&currStreakNum=ffffff&sideNums=ffffff&dates=9a7b62" />
 
 </div>
 
@@ -117,6 +129,6 @@ Full-Stack Software Engineer with **3+ years** shipping scalable SaaS products a
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,50:4f46e5,100:0a1120&section=footer&reversal=true" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:fbbf24,50:ea580c,100:140d09&section=footer&reversal=true" width="100%" alt="footer" />
 
 </div>
