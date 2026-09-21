@@ -1,73 +1,122 @@
-# 👋 Hi, I'm Rakshit Agarwal
+<!-- Replace YOUR-GITHUB and YOUR-LINKEDIN everywhere before pushing -->
 
-**Full-Stack Software Engineer · 3+ years of experience · Ahmedabad, India**
+<div align="center">
 
-Full-Stack Software Engineer with 3+ years of experience designing and shipping scalable SaaS products across Fintech, Healthcare, EHS/ESG, and Real-Time platforms using Node.js, NestJS, Next.js, React, PostgreSQL, and MongoDB.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a1120,50:4f46e5,100:22d3ee&text=Rakshit%20Agarwal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Microservices%20%C2%B7%20AI-Powered%20SaaS&descSize=16&descAlignY=60&animation=twinkling" width="100%" alt="header" />
 
----
+<a href="https://github.com/YOUR-GITHUB">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=40&lines=%24+whoami+%E2%86%92+Rakshit+Agarwal;Turning+ideas+into+scalable+SaaS;6+NestJS+microservices.+50K%2B+events%2Fday.;Gemini+AI+%C3%97+Fintech+%C3%97+Real-time+systems;%24+status+%E2%86%92+building+%2B+scaling+%2B+shipping+%E2%9C%A6" alt="typing" />
+</a>
 
-## 🚀 About Me
+<br/>
 
-- 🔭 **Currently Engineering:** Enterprise EHS/ESG & Fintech SaaS platforms at **BrainerHub Solutions**
-- 🛠 **Core Specializations:** Microservices, Event-Driven Architecture, Real-Time Systems, and AI Integrations
-- 📦 **Portfolio:** [rakshit-five.vercel.app](https://rakshit-five.vercel.app)
-- 💬 **Ask Me About:** React, Next.js, Node.js, NestJS, TypeScript, and System Design
-- 📫 **Reach Me:** [rakshit.agarwal@outlook.com](mailto:rakshit.agarwal@outlook.com)
-- 🔗 **Links:** [LinkedIn](https://linkedin.com/in/rakshitagarwal) · [Resume / CV](https://docs.google.com/document/d/1oCYFVKwWIOSacVYBgqyHV_DsMqfWdDt6HQ4pN-kKbRI/edit?tab=t.0)
+<img src="./assets/profile-card.svg" width="100%" alt="profile.sh --live" />
 
----
+<br/>
 
-## 🧰 Tech Stack
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:rakshit.agarwal@outlook.com"><img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://leetcode.com/u/rakshitag13"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, Python |
-| **Frontend** | React.js, Next.js, Redux Toolkit, HTML5, Tailwind CSS |
-| **Backend** | Node.js, NestJS, Express.js, REST APIs |
-| **Architecture & Real-time** | Microservices, API Gateway, NATS, RabbitMQ, Kafka, Socket.IO |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Neo4j |
-| **Cloud & DevOps** | AWS, GCP, Docker, Git, GitHub Actions, CI/CD, Nginx |
-| **AI & Tools** | Gemini AI, LLMs, Stripe, Postman, Cursor, Figma |
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=profile+views&color=a5b4fc&style=flat" alt="views" />
+
+</div>
 
 ---
 
-## 🏆 Key Achievements & Impact
+## `> cat about.txt`
 
-- ⚡ **Scaled EHS/ESG Microservices:** Deployed 6 NestJS microservices behind an API Gateway, reducing average response latency by 30% for 5,000+ MAUs.
-- 🤖 **AI-Driven Automated Workflows:** Integrated Gemini AI assistant into a Fintech platform, automating 70% of routine client insights and saving 4 hrs/week per user.
-- 🎟 **High-Speed Event Ticketing:** Developed real-time QR validation for 3,000+ attendees, reducing average check-in time from 45 seconds to under 8 seconds.
-- 💬 **Sub-200ms Bidding Engine:** Built a real-time auction backend handling 15,000+ bids/hour across 100+ live auction rooms with Redis distributed locks.
-- 🩺 **Healthcare Onboarding Optimization:** Designed WCAG 2.1 AA compliant patient portal onboarding, reducing drop-off by 20% and boosting monthly bookings by 40%.
+Full-Stack Software Engineer with **3+ years** shipping scalable SaaS products across **EHS/ESG, fintech, healthcare, events and real-time auctions**. I like systems that stay fast under load: event-driven microservices, clean APIs, and interfaces people actually enjoy using. Lately I'm wiring **LLMs (Gemini, Claude)** into products so they do the boring work for users.
 
 ---
 
-## 💼 Work Experience
+## `> ./stack --animated`
 
-### **BrainerHub Solutions** — *Software Engineer* *(May 2025 – Present)*
-- **Enterprise EHS/ESG SaaS:** Architected event-driven microservices using NestJS, NATS, and MongoDB handling 50,000+ asynchronous events daily[cite: 1].
-- **Fintech SaaS Platform:** Built full-stack features processing $2M+ in monthly transactions, implementing Stripe subscription management and tax compliance engines[cite: 1].
+<div align="center">
 
-### **Yudiz Solutions** — *Web Developer* *(Dec 2024 – Apr 2025)*
-- **Event & Ticketing Platform:** Led frontend development for ticketing modules processing 1,200+ transactions and powering real-time QR check-in systems[cite: 1].
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express,react,nextjs,redux,tailwind,html&perline=11" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,neo4j,rabbitmq,kafka,socketio,docker,aws,gcp&perline=11" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,postman,vscode,figma,cursor,stripe&perline=11" />
 
-### **ArsenalTech** — *Software Engineer* *(Apr 2024 – Nov 2024)*
-- **Bering Health Patient Portal:** Developed WCAG 2.1 AA compliant portal using React/Next.js and Redux Toolkit across 30+ medical clinics[cite: 1].
-
-### **GlobalVox** — *Software Engineer* *(Feb 2023 – Mar 2024)*
-- **Real-Time Bidding Platform:** Engineered Node.js, Redis, and Socket.IO backend services processing peak loads of 2,000+ concurrent users with sub-200ms latency[cite: 1].
+</div>
 
 ---
 
-## 🎓 Education & Certifications
+## `> git log --career`
 
-- **B.Tech in Computer Science & Engineering** — ABES Engineering College, Ghaziabad *(2015 – 2019)*[cite: 1]
-- **Data Science - Python** — Coursera *(2026)*[cite: 1]
-- **Java Enterprise with DevOps** — NIIT *(2025)*[cite: 1]
+<table>
+<tr>
+<td width="140"><b>2025 → Now</b></td>
+<td>
+<b>Software Engineer · Brainerhub Solutions</b> <sub>Ahmedabad</sub><br/>
+🌐 <b>Enterprise EHS/ESG SaaS</b>: 15+ production features · 20+ enterprise tenants · 5,000+ MAU<br/>
+⚙️ 6 NestJS microservices behind an API Gateway → <b>30% lower latency</b>, zero-downtime deploys<br/>
+📡 NATS streaming for <b>50,000+ events/day</b> → 40% less inter-service coupling<br/>
+💳 <b>Fintech SaaS</b>: 1,200+ clients · $2M+/month · 99% uptime · Gemini AI automates 70% of routine insights · Stripe subscriptions with Canadian GST/HST across 9 provinces<br/>
+<sub><code>NestJS</code> <code>Next.js</code> <code>MongoDB</code> <code>Neo4j</code> <code>NATS</code> <code>MySQL</code> <code>Stripe</code> <code>Gemini</code> <code>AWS</code> <code>GCP</code></sub>
+</td>
+</tr>
+<tr>
+<td><b>Dec 2024 – Apr 2025</b></td>
+<td>
+<b>Web Developer · Yudiz Solutions</b><br/>
+🎟️ Event platform: 50+ concurrent events · 3,000+ attendees · <b>$45K+ revenue in 3 months</b><br/>
+⚡ QR ticketing with real-time validation: check-in <b>45s → under 8s</b>, 90% fewer errors<br/>
+<sub><code>Next.js</code> <code>React</code> <code>Tailwind</code> <code>Stripe</code></sub>
+</td>
+</tr>
+<tr>
+<td><b>Apr – Nov 2024</b></td>
+<td>
+<b>Software Engineer · ArsenalTech</b><br/>
+🏥 Healthcare portal: 1,000+ patients · 30+ clinics · WCAG 2.1 AA<br/>
+📈 Onboarding drop-off cut by 20% · consultation bookings <b>+40%</b><br/>
+🧩 Redux Toolkit layer with 15+ hooks → 55% fewer frontend defects<br/>
+<sub><code>React</code> <code>Next.js</code> <code>Redux Toolkit</code> <code>Tailwind</code></sub>
+</td>
+</tr>
+<tr>
+<td><b>Feb 2023 – Mar 2024</b></td>
+<td>
+<b>Software Engineer · Globalvox</b><br/>
+🔨 Real-time auctions: 2,000+ concurrent users · 100+ rooms · <b>200ms bid response</b><br/>
+🔒 15,000+ bids/hour with 100% consistency (PostgreSQL transactions + Redis distributed locks)<br/>
+🚀 Socket.IO + Redis → 70% lower latency vs REST<br/>
+<sub><code>Node.js</code> <code>Express</code> <code>Socket.IO</code> <code>Redis</code> <code>PostgreSQL</code> <code>Docker</code></sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔗 Coding Profiles
+## `> ./stats --live`
 
-- **LeetCode:** [rakshitag13](https://leetcode.com/u/rakshitag13)[cite: 1]
-- **HackerRank:** [Rakshit17](https://www.hackerrank.com/profile/Rakshit17)[cite: 1]
-- **CodeChef:** [rakshit310](https://www.codechef.com/users/rakshit310)[cite: 1]
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&hide_border=true&bg_color=0a1120&title_color=22d3ee&icon_color=a5b4fc&text_color=c7d2fe&ring_color=a5b4fc" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&hide_border=true&bg_color=0a1120&title_color=22d3ee&text_color=c7d2fe" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&hide_border=true&background=0a1120&ring=a5b4fc&fire=22d3ee&currStreakLabel=c7d2fe&sideLabels=c7d2fe&currStreakNum=ffffff&sideNums=ffffff&dates=6b7f9e" />
+
+</div>
+
+---
+
+## `> cat now.md`
+
+- 🔭 Building AI-powered SaaS features on top of Gemini and Claude
+- 🧠 Completing **Data Science with Python** (Coursera, 2026)
+- ☕ Completed **Java Enterprise with DevOps** (NIIT, 2025)
+- 🎯 Practising on [LeetCode](https://leetcode.com/u/rakshitag13) · [HackerRank](https://hackerrank.com/Rakshit17) · [CodeChef](https://codechef.com/rakshit310)
+- 💬 Ask me about: **NestJS microservices, NATS/event-driven design, Stripe billing, real-time systems**
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,50:4f46e5,100:0a1120&section=footer&reversal=true" width="100%" alt="footer" />
+
+</div>
